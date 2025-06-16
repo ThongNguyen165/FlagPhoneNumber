@@ -7,7 +7,7 @@
 //
 
 import UIKit
-
+import libPhoneNumber
 open class FPNTextField: UITextField {
 
 	/// The size of the flag button
